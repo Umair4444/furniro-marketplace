@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🪑 Furniro – Modern Furniture Marketplace
 
-## Getting Started
+Welcome to **Furniro** — a modern and responsive furniture e-commerce platform built with **Next.js** and **Tailwind CSS**.  
+Designed for style, performance, and simplicity, Furniro makes online furniture shopping seamless and inspiring.
 
-First, run the development server:
+---
 
-```bash
+## 📑 Table of Contents
+
+- [🚀 Live Demo](#-live-demo)
+- [✨ Features](#-features)
+- [🛠 Tech Stack](#-tech-stack)
+- [📦 Getting Started](#-getting-started)
+- [📜 License](#-license)
+- [📝 Project Summary](#-project-summary)
+
+---
+
+## 🚀 Live Demo
+
+🔗 [Furniro Store](https://furniro-store-ebon.vercel.app/)
+
+---
+
+## ✨ Features
+
+- 🛋 **Curated Collections** – Explore Dining, Living, Bedroom, and more categories.
+- ⭐ **Top Sellers & Promotions** – Highlighted best sellers, new arrivals, and exclusive offers.
+- 🖼 **Inspiration Gallery** – Styled room layouts to spark creativity and design ideas.
+- 📩 **Newsletter Subscription** – Stay updated with the latest trends and deals.
+- 📌 **Quick Links & Support** – Easy access to About Us, Contact, Payment, Returns, and FAQs.
+- ⚡ **Optimized Performance** – Powered by **Next.js** for speed and SEO, styled with **Tailwind CSS** for responsiveness.
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Deployment**: [Vercel](https://vercel.com/)
+
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Node.js (v14+)
+- npm, yarn, or pnpm
+
+### Installation
+
+# Clone the repository
+
+git clone https://github.com/Umair4444/furniro-marketplace.git
+cd furniro-marketplace
+
+# Install dependencies
+
+npm install # or yarn install / pnpm install
+
+# Start the development server
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📜 License
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project is licensed under the MIT License.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 📝 Project Summary
 
-## Learn More
+Title:
 
-To learn more about Next.js, take a look at the following resources:
+Furniro – Modern Furniture Marketplace
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Short Description:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+A responsive Next.js furniture e-commerce website featuring curated collections, promotions, and an inspiration gallery.
 
-## Deploy on Vercel
+Tagline:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+“Discover beautifully designed furniture for modern living — seamless browsing, inspiring visuals, and stylish comfort.”
